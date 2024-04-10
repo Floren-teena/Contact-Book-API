@@ -1,0 +1,12 @@
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\bin\Debug\net6.0\ContactBook.Infratsructure.deps.json
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\bin\Debug\net6.0\ContactBook.Infratsructure.dll
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\bin\Debug\net6.0\ContactBook.Infratsructure.pdb
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\obj\Debug\net6.0\ContactBook.Infratsructure.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\obj\Debug\net6.0\ContactBook.Infratsructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\obj\Debug\net6.0\ContactBook.Infratsructure.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\obj\Debug\net6.0\ContactBook.Infratsructure.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\obj\Debug\net6.0\ContactBook.Infratsructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\obj\Debug\net6.0\ContactBook.Infratsructure.dll
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\obj\Debug\net6.0\refint\ContactBook.Infratsructure.dll
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\obj\Debug\net6.0\ContactBook.Infratsructure.pdb
+C:\Users\HP\Source\Repos\ContactBook.Infratsructure\obj\Debug\net6.0\ref\ContactBook.Infratsructure.dll
